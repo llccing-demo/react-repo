@@ -1,4 +1,5 @@
 {
+  "name": "umi-dva-antd",
   "private": true,
   "scripts": {
     "start": "umi dev",
