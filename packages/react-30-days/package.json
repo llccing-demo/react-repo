@@ -1,0 +1,29 @@
+{
+  "name": "react-30-days",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "llccing <lcf33123@foxmail.com>",
+  "homepage": "https://github.com/llccing-demo/react-repo#readme",
+  "license": "ISC",
+  "main": "lib/react-30-days.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npm.taobao.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llccing-demo/react-repo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/llccing-demo/react-repo/issues"
+  }
+}
